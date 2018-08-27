@@ -4,7 +4,7 @@
 An application which allows the user to play with background color, a text string, and the color
 of a text string. This can all be reset to defaults by tapping the background.
 
-### App Walk-though
+### App Walk-through
 <img src="https://i.imgur.com/nTb8VZJ.gif" width=200><br>
 
 ### Required User Stories
