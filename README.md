@@ -5,7 +5,7 @@ An application which allows the user to play with background color, a text strin
 of a text string. This can all be reset to defaults by tapping the background.
 
 ### App Walk-though
-<img src="https://i.imgur.com/nTb8VZJ.gifv" width=200><br>
+<img src="https://i.imgur.com/nTb8VZJ.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
